@@ -1,0 +1,115 @@
+module Base
+{
+	
+	model 9mm_ammocan
+	{
+		mesh    = WorldItems/ammocan,
+		texture = WorldItems/9mm_ammocan,
+		scale   = 1,
+	}
+
+	model 45_ammocan
+	{
+		mesh    = WorldItems/ammocan,
+		texture = WorldItems/45_ammocan,
+		scale   = 0.004,
+	}
+
+    model 44_ammocan
+	{
+		mesh    = WorldItems/ammocan,
+		texture = WorldItems/44_ammocan,
+		scale   = 0.004,
+	}
+
+    model 38_ammocan
+	{
+		mesh    = WorldItems/ammocan,
+		texture = WorldItems/38_ammocan,
+		scale   = 0.004,
+	}
+
+    model 12ga_ammocan
+	{
+		mesh    = WorldItems/ammocan,
+		texture = WorldItems/12ga_ammocan,
+		scale   = 0.004,
+	}
+
+    model 223_ammocan
+	{
+		mesh    = WorldItems/ammocan,
+		texture = WorldItems/223_ammocan,
+		scale   = 0.004,
+	}
+
+    model 556_ammocan
+	{
+		mesh    = WorldItems/ammocan,
+		texture = WorldItems/556_ammocan,
+		scale   = 0.004,
+	}
+
+    model 308_ammocan
+	{
+		mesh    = WorldItems/ammocan,
+		texture = WorldItems/308_ammocan,
+		scale   = 0.004,
+	}
+
+    model Bullets9mmBox
+	{
+		mesh    = WorldItems/ammobox,
+		texture = WorldItems/9mm_ammobox,
+		scale   = 1,
+	}
+
+    model Bullets38Box
+	{
+		mesh    = WorldItems/ammobox,
+		texture = WorldItems/38_ammobox,
+		scale   = 0.004,
+	}
+
+    model Bullets44Box
+	{
+		mesh    = WorldItems/ammobox,
+		texture = WorldItems/44_ammobox,
+		scale   = 0.004,
+	}
+
+    model Bullets45Box
+	{
+		mesh    = WorldItems/ammobox,
+		texture = WorldItems/45_ammobox,
+		scale   = 0.004,
+	}
+
+    model 223Box
+	{
+		mesh    = WorldItems/ammobox,
+		texture = WorldItems/223_ammobox,
+		scale   = 0.004,
+	}
+
+    model 308Box
+	{
+		mesh    = WorldItems/ammobox,
+		texture = WorldItems/308_ammobox,
+		scale   = 0.004,
+	}
+
+    model 556Box
+	{
+		mesh    = WorldItems/ammobox1,
+		texture = WorldItems/556_ammobox,
+		scale   = 1,
+	}
+
+    model ShotgunShellsBox
+	{
+		mesh    = WorldItems/12ga_box,
+		texture = WorldItems/12ga_ammobox,
+		scale   = 0.004,
+	}
+}

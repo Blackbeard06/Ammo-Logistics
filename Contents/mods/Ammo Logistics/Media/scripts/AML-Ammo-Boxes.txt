@@ -1,0 +1,87 @@
+module AML
+{
+    imports    
+    {
+		Base
+	}
+
+	item 9mm_ammocan
+    {
+        Weight              =   2,
+        Type                =   Normal,
+        DisplayName         =   9mm Ammo Can,
+		DisplayCategory     =   Ammo,
+        Icon                =   ammocan_icon,
+        WorldStaticModel    =   ammocan,
+    }
+
+    item 45_ammocan
+    {
+        Weight              =   2,
+        Type                =   Normal,
+        DisplayName         =   Stack of 45,
+		DisplayCategory     =   Ammo,
+        Icon                =   ammocan_icon,
+        WorldStaticModel    =   ammocan,
+    }
+
+    item 44_ammocan
+    {
+        Weight              =   2,
+        Type                =   Normal,
+        DisplayName         =   Stack of 44,
+		DisplayCategory     =   Ammo,
+        Icon                =   ammocan_icon,
+        WorldStaticModel    =   ammocan,
+    }
+
+    item 38_ammocan
+    {
+        Weight              =   2,
+        Type                =   Normal,
+        DisplayName         =   Stack of 38,
+		DisplayCategory     =   Ammo,
+        Icon                =   ammocan_icon,
+        WorldStaticModel    =   ammocan,
+    }
+
+    item 12ga_ammocan
+    {
+        Weight              =   2,
+        Type                =   Normal,
+        DisplayName         =   Stack of 12 Gauge,
+		DisplayCategory     =   Ammo,
+        Icon                =   ammocan_icon,
+        WorldStaticModel    =   ammocan,
+    }
+
+    item 223_ammocan
+    {
+        Weight              =   2,
+        Type                =   Normal,
+        DisplayName         =   Stack of 223,
+		DisplayCategory     =   Ammo,
+        Icon                =   ammocan_icon,
+        WorldStaticModel    =   ammocan,
+    }
+
+    item 556_ammocan
+    {
+        Weight              =   2,
+        Type                =   Normal,
+        DisplayName         =   Stack of 556,
+		DisplayCategory     =   Ammo,
+        Icon                =   ammocan_icon,
+        WorldStaticModel    =   ammocan,
+    }
+
+    item 308_ammocan
+    {
+        Weight              =   2,
+        Type                =   Normal,
+        DisplayName         =   Stack of 308,
+		DisplayCategory     =   Ammo,
+        Icon                =   ammocan_icon,
+        WorldStaticModel    =   ammocan,
+    }
+}

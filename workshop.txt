@@ -1,0 +1,45 @@
+version=1
+id=2577049038
+title=Ammo Logistics
+description=[h2]Updated for Build 41.54![/h2]
+description=
+description=[h2]What does this mod do?[/h2]
+description=
+description=Ammo Logistics is a simple mod that adds bulk vanilla ammo. Loot them yourself or add (6) boxes of any of the same caliber round into a bigger box. This is a smaller version of the ammo cache feature from my mod: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2099146406][u]Blackbeard's Weapons [Build 41][/u][/url].
+description=
+description=[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
+description=
+description=[h2] Notice! [/h2]
+description=I created this mod so that the weight of the ammo stash boxes are lighter than what they should be. If they are too heavy then the container holding the ammo stash box would be full and no more loot would spawn in the same container.
+description=
+description=[h2]Compatibility[/h2]
+description=This mod should be compatible with any other mod.
+description=This mod should work with [b]Build 39, Build 40, Build 41 & Build 41.51[/b]
+description=
+description=[h2]Bugs:[/h2]
+description=None at this time.
+description=
+description=[h2]Check out my other mods[/h2]
+description=[url=https://steamcommunity.com/id/Blackbeard06/myworkshopfiles/?appid=108600][u]Blackbeard's Workshop[/u][/url]
+description=
+description=[h3]Food & Drink Mods[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2581249482][u]More Vanilla Alcohol [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2098960488][u]More Beer [Build 41.54][/u][/url]
+description=
+description=[h3]Firearm Mods[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2584812605][u]AR-15 [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2584211049][u]Weapon Mod [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2577049038][u]Ammo Logistics [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601349483][u]More Vanilla Firearms [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2577049336][u]More Ammo [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2579385169][u]M&P 9mm [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2577942794][u]Operator's M4 [Build 41.54][/u][/url]
+description=
+description=[h3]Other Mods[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2413030042][u]Small Dot Cursor [All Builds][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601912220][u]Day By Day Armageddon [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601977020][u]Checklist [All Builds][/u][/url]
+description=
+description=[H2]Mod Info[/H2]
+tags=Build 40;Build 41;Items;Realistic
+visibility=public

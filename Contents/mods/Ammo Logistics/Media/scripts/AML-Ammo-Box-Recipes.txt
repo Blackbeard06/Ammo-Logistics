@@ -1,0 +1,135 @@
+module AML
+{
+    imports    
+    {
+		Base
+	}
+        
+    recipe Put 9mm Ammo in Can
+    {
+        Bullets9mmBox=6,
+        Result:9mm_ammocan,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+            
+    recipe Empty 9mm Ammo Can
+    {
+        9mm_ammocan,
+        Result:Bullets9mmBox=6,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+
+    recipe Put 45 Ammo in Can
+    {
+        Bullets45Box=6,
+        Result:45_ammocan,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+            
+    recipe Empty 45 Ammo Can
+    {
+        45_ammocan,
+        Result:Bullets45Box=6,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+
+    recipe Put 44 Ammo in Can
+    {
+        Bullets44Box=6,
+        Result:44_ammocan,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+            
+    recipe Empty 44 Ammo Can
+    {
+        44_ammocan,
+        Result:Bullets44Box=6,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+    
+    recipe Put 38 Ammo in Can
+    {
+        Bullets38Box=6,
+        Result:38_ammocan,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+            
+    recipe Empty 38 Ammo Can
+    {
+        38_ammocan,
+        Result:Bullets38Box=6,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+
+    recipe Put 12ga Ammo in Can
+    {
+        ShotgunShellsBox=6,
+        Result:12ga_ammocan,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+            
+    recipe Empty 12ga Ammo Can
+    {
+        12ga_ammocan,
+        Result:ShotgunShellsBox=6,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+
+    recipe Put 223 Ammo in Can
+    {
+        223Box=6,
+        Result:223_ammocan,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+            
+    recipe Empty 223 Ammo Can
+    {
+        223_ammocan,
+        Result:223Box=6,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+
+    recipe Put 556 Ammo in Can
+    {
+        556Box=6,
+        Result:556_ammocan,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+            
+    recipe Empty 556 Ammo Can
+    {
+        556_ammocan,
+        Result:556Box=6,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+
+    recipe Put 308 Ammo in Can
+    {
+        308Box=6,
+        Result:308_ammocan,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+            
+    recipe Empty 308 Ammo Can
+    {
+        308_ammocan,
+        Result:308Box=6,
+        Time:17.0,
+        OnCreate:putInBox_OnCreate,
+    }
+}

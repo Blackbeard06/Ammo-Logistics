@@ -1,0 +1,106 @@
+require 'Items/ProceduralDistributions'
+
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, "AML.9mm_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, 1);
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, "AML.9mm_ammocan");
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, "AML.9mm_ammocan");
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, "AML.9mm_ammocan");
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, "AML.9mm_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, "AML.9mm_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, 1);
+
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, "AML.45_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, 1);
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, "AML.45_ammocan");
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, "AML.45_ammocan");
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, "AML.45_ammocan");
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, "AML.45_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, "AML.45_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, 1);
+
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, "AML.44_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, 1);
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, "AML.44_ammocan");
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, "AML.44_ammocan");
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, "AML.44_ammocan");
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, "AML.44_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, "AML.44_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, 1);
+
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, "AML.38_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, 1);
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, "AML.38_ammocan");
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, "AML.38_ammocan");
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, "AML.38_ammocan");
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, "AML.38_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, "AML.38_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, 1);
+
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, "AML.12ga_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, 1);
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, "AML.12ga_ammocan");
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, "AML.12ga_ammocan");
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, "AML.12ga_ammocan");
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, "AML.12ga_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, "AML.12ga_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, 1);
+
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, "AML.223_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, 1);
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, "AML.223_ammocan");
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, "AML.223_ammocan");
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, "AML.223_ammocan");
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, "AML.223_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, "AML.223_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, 1);
+
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, "AML.556_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, 1);
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, "AML.556_ammocan");
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, "AML.556_ammocan");
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, "AML.556_ammocan");
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, "AML.556_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, "AML.556_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, 1);
+
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, "AML.308_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreAmmunition"].items, 1);
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, "AML.308_ammocan");
+table.insert(ProceduralDistributions["list"]["PoliceStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, "AML.308_ammocan");
+table.insert(ProceduralDistributions["list"]["ArmyStorageGuns"].items, 1);
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, "AML.308_ammocan");
+table.insert(ProceduralDistributions["list"]["LockerArmyBedroom"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, "AML.308_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreCounter"].items, 1);
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, "AML.308_ammocan");
+table.insert(ProceduralDistributions["list"]["GunStoreDisplayCase"].items, 1);
+
